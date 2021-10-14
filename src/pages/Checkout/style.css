@@ -1,0 +1,38 @@
+.custom-label{
+    margin: 0 3em 0 0;
+    white-space: nowrap;
+    user-select: none;
+}
+.custom-radio{
+    user-select: none;
+}
+.custom-textarea{
+    resize: none;
+}
+.custom-checkbox{
+    transform: scale(1.6);
+}
+
+.card-body_custom{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    text-align: center;
+}
+
+.card-img-top_custom{
+
+}
+
+.error-msg{
+    min-height: 2em;
+    text-align: center;
+}
+
+.form-wrapper{
+    border: 1px solid transparent;
+}
+.has-error{
+    border-color: red;
+}

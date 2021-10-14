@@ -1,0 +1,9 @@
+.nav-link-custom{
+    color: #DDE0E1;
+}
+.nav-link-custom_active{
+    color: #A4A7AC !important;
+}
+.nav-link-custom:hover{
+    color:#A4A7AC!important
+}

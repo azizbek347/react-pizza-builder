@@ -1,0 +1,16 @@
+.custom-close-button{
+    position: absolute;
+    top: .75em;
+    right: .75em;
+    border-radius: 50%;
+    border: 2px solid #000;
+    min-width: 1em;
+    min-height: 1em;
+    font-size: 2em;
+    line-height: .8;
+    transform: translate(50%,-50%);
+}
+
+.custom-close-button span{
+    vertical-align: 3px;
+}
