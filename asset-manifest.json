@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/azizbek347/react-pizza-builder/static/css/main.f93e7616.chunk.css",
+    "main.js": "/azizbek347/react-pizza-builder/static/js/main.1b870bfd.chunk.js",
+    "main.js.map": "/azizbek347/react-pizza-builder/static/js/main.1b870bfd.chunk.js.map",
+    "runtime-main.js": "/azizbek347/react-pizza-builder/static/js/runtime-main.5699a043.js",
+    "runtime-main.js.map": "/azizbek347/react-pizza-builder/static/js/runtime-main.5699a043.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/azizbek347/react-pizza-builder/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.a06f2146.chunk.js": "/azizbek347/react-pizza-builder/static/js/2.a06f2146.chunk.js",
+    "static/js/2.a06f2146.chunk.js.map": "/azizbek347/react-pizza-builder/static/js/2.a06f2146.chunk.js.map",
+    "index.html": "/azizbek347/react-pizza-builder/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/azizbek347/react-pizza-builder/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.f93e7616.chunk.css.map": "/azizbek347/react-pizza-builder/static/css/main.f93e7616.chunk.css.map",
+    "static/js/2.a06f2146.chunk.js.LICENSE.txt": "/azizbek347/react-pizza-builder/static/js/2.a06f2146.chunk.js.LICENSE.txt",
+    "static/media/cold-cuts.25f4608f.jpg": "/azizbek347/react-pizza-builder/static/media/cold-cuts.25f4608f.jpg",
+    "static/media/pepperoni.05d8a9e6.jpg": "/azizbek347/react-pizza-builder/static/media/pepperoni.05d8a9e6.jpg",
+    "static/media/swiss-cheese.0a3adf48.jpg": "/azizbek347/react-pizza-builder/static/media/swiss-cheese.0a3adf48.jpg",
+    "static/media/vegetables.10ab0bd9.jpg": "/azizbek347/react-pizza-builder/static/media/vegetables.10ab0bd9.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5699a043.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.a06f2146.chunk.js",
+    "static/css/main.f93e7616.chunk.css",
+    "static/js/main.1b870bfd.chunk.js"
+  ]
+}
